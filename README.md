@@ -17,3 +17,6 @@
 ## Data Generation
  Because Tinkercad does not allow usage of the internet from within the simulation, I instead chose to simulate the data using a simple python script.
  That script will generate random data and will send it to ThingSpeak to display. Said python script can be found in this repository as "DataGeneration.py".
+
+## Project Specification Document
+ The project's specification document can be found [here](https://docs.google.com/document/d/1NXfo-tR__H7e0ITNib-rNwuwHWvR8rO7eeliOEmaOOQ/edit?usp=sharing).
